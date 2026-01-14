@@ -200,7 +200,7 @@ const HomePage = () => {
               <div className="w-24 h-24 rounded-full bg-gradient-to-r from-indigo-500 to-purple-600 p-1 mb-4 shadow-xl">
                 <div className="w-full h-full rounded-full bg-white flex items-center justify-center overflow-hidden">
                    <img 
-                    src="https://ui-avatars.com/api/?name=Idin+Iskandar&background=6366f1&color=fff&size=128" 
+                    src="https://drama-id.vercel.app/assets/IMG_20260108_00352181-DNA0WxA9.jpeg" 
                     alt="Idin Iskandar" 
                     className="w-full h-full object-cover"
                    />
