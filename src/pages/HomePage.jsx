@@ -217,7 +217,7 @@ const HomePage = () => {
                 <Info size={16}/> Tentang Project
               </h4>
               <p className="text-sm text-slate-600 leading-relaxed">
-                <strong>PromptGen Pro</strong> adalah alat bantu kreatif yang dibangun dengan React.js dan Google Gemini Vision.
+                <strong>PromptGen Pro</strong> adalah alat bantu kreatif yang dibangun dengan React.js.
               </p>
             </div>
 
